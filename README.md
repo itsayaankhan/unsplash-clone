@@ -3,8 +3,6 @@
 
 A Unsplash clone developed with React🚀 and Unsplash API
 
-**Click [Here](https://mani-unsplash-clone.netlify.app/) to view the Live Website**
-
 ### Features
 - Search Images
 - Download Images
